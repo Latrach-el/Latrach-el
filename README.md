@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Latrach El Habib
+- 🌱 I’m currently learning Next.js ,Asp.net web core API
+- 🎓  Master's student in Artificial Intelligence and Computer Engineering
